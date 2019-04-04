@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'webpacker', '~> 4.x'
 
 git 'https://github.com/the-open/journey-packagetest', branch: 'master' do
   gem 'journey_packagetest_core'
