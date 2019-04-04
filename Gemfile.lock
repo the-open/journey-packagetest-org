@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/the-open/journey-packagetest
-  revision: 8717f5652e83bb99c518563599fe3808a0c5005a
+  revision: 77f64be2733b81a99d8ab6223d629101fb79c47f
   branch: master
   specs:
     journey_packagetest_admin (0.1.0)
